@@ -1,14 +1,7 @@
 <div align="center">
 	<h1>Listagem de tarefas</h1>
 	<br>
-	<p align="center">
-		<a href="https://www.linkedin.com/in/mf-cunha/">
-		  <img alt="made by" src="https://img.shields.io/badge/made%20by-xTirian-red">
-		</a>
-		<a href="https://github.com/xtirian/Frontend-Mentor-SnyderCut/tree/main/art-gallery-website">
-		  <img alt="last commit" src="https://img.shields.io/github/last-commit/xtirian/xtirian">
-		</a>
-	</p>
+	
 </div>
 
 <hr>
