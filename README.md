@@ -53,7 +53,7 @@ $ npm run dev
 
 <hr>
 
-by Matheus Fernandes (aka xTirian)<br>
+by Jeferson Marciano (aka Jeff)<br>
 
 - Linkedin - [Click here](https://www.linkedin.com/in/mf-cunha/)
 - GitHub - [Click here](https://github.com/xtirian/)
