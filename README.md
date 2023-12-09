@@ -55,10 +55,8 @@ $ npm run dev
 
 by Jeferson Marciano (aka Jeff)<br>
 
-- Linkedin - [Click here](https://www.linkedin.com/in/mf-cunha/)
-- GitHub - [Click here](https://github.com/xtirian/)
-- FrontEnd Mentor - [Click here](https://www.frontendmentor.io/profile/xtirian)
-- CodePen - [Click Here](https://codepen.io/xtirian/)
+- Linkedin - [Click here](https://www.linkedin.com/in/jeferson-marciano/)
+- GitHub - [Click here](https://github.com/jefersonmarciano)
 
 ## Atualização 1.1
 
